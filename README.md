@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi! I'm Syifaa'. <br>Back in the university day, I'm pursuing Bioinformatics as my major<br>Currently learning CTF and bug bounty
 
+# Certifications
+1. Credly : https://www.credly.com/users/nusrah-nasyifaa/badges/credly
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurnusrahnasyifaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurnusrahnasyifaa@gmail.com) 
