@@ -2,24 +2,21 @@
 Hi! I'm Syifaa'. <br>Back in the university day, I'm pursuing Bioinformatics as my major<br>Currently learning CTF and bug bounty
 
 ### Certifications
-1. Credly : https://www.credly.com/users/nusrah-nasyifaa/badges/credly
+* Credly : https://www.credly.com/users/nusrah-nasyifaa/badges/credly
 
-### Socials:
+### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurnusrahnasyifaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurnusrahnasyifaa@gmail.com) 
 
-### Continuous Learning
-1. Cloud Training : AWS re/Start with Forward College
+### Currently Learning
+* AWS re/Start with Forward College
+* WQU Data Science Lab
 
-### Current interests:
+### Current interests
+* Data Science and Analysis
+* Data Engineering 
+* CTF and bug bounty
 
-## 🌟 Features
-* **Real-time Data Processing**: Description of feature.
-* **User Authentication**: Description of feature.
 
-## 🛠️ Tech Stack
-* **Frontend**: React, Tailwind CSS
-* **Backend**: Node.js, Express
-* **Database**: MongoDB
 
 
 # 💻 Tech Stack:
