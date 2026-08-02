@@ -21,4 +21,5 @@ Hi! I'm Syifaa'. <br>Back in the university day, I'm pursuing Bioinformatics as 
 ---
 [![](https://komarev.com/ghpvc/?username=gryfinngodx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+# Continuous Learning
+1. Cloud Training : AWS re/Start with Forward College
