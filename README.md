@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I'm Syifaa'. <br>Back in the university day, I'm pursuing Bioinformatics as my major<br>Currently learning CTF and bug bounty
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Syifaa)](https://git.io/typing-svg)
+ <br>Back in the university day, I'm pursuing Bioinformatics as my major<br>Currently learning CTF and bug bounty
 
 ### Certifications
 * Credly : https://www.credly.com/users/nusrah-nasyifaa/badges/credly
