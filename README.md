@@ -4,9 +4,6 @@ Hi! I'm Syifaa'. <br>Back in the university day, I'm pursuing Bioinformatics as 
 ### Certifications
 * Credly : https://www.credly.com/users/nusrah-nasyifaa/badges/credly
 
-### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurnusrahnasyifaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurnusrahnasyifaa@gmail.com) 
-
 ### Currently Learning
 * AWS re/Start with Forward College
 * WQU Data Science Lab
@@ -16,7 +13,14 @@ Hi! I'm Syifaa'. <br>Back in the university day, I'm pursuing Bioinformatics as 
 * Data Engineering 
 * CTF and bug bounty
 
+### Featured Projects
 
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| **🤖 AI Resume Analyzer** | Uses LLMs to evaluate resumes, generate ATS scores, and recommend improvements. | Next.js • FastAPI • PostgreSQL • OpenAI | ✅ Active |
+| **📋 TaskFlow** | Real-time Kanban board for collaborative project management with team workspaces. | React • Node.js • PostgreSQL • Socket.IO | 🚀 Active |
+| **💰 Expense Tracker** | Personal finance dashboard with budgeting, analytics, and recurring expense tracking. | React • Express • MongoDB | ✅ Completed |
+| **🛍️ E-Commerce Platform** | Full-featured online store with secure payments, inventory management, and admin dashboard. | Next.js • Prisma • Stripe | 🚧 In Progress |
 
 
 # 💻 Tech Stack:
@@ -27,6 +31,10 @@ Hi! I'm Syifaa'. <br>Back in the university day, I'm pursuing Bioinformatics as 
   <img src="https://streak-stats.demolab.com/?user=nusrahnasyifaa&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="180" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nusrahnasyifaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
 </p>
+
+### Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurnusrahnasyifaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurnusrahnasyifaa@gmail.com) 
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=nusrahnasyifaa&icon=0&color=0)](https://visitcount.itsvg.in)
