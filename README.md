@@ -7,6 +7,7 @@
 
 ### Currently Learning
 * AWS re/Start with Forward College
+* Google Cloud Gen AI Academy APAC
 * WQU Data Science Lab
 
 ### Current interests
