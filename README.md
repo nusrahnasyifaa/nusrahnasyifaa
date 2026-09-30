@@ -3,7 +3,7 @@
   "Somehow I ended up enjoying the tech and data side of things.😄"
 </p>
 <p align="center">
-  <img src="URL_TO_YOUR_IMAGE" alt="Hello World">
+  <img src="img/github_header.png" alt="Hello World">
 </p>
 
 <br></br>
