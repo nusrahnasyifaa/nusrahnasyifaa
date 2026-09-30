@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Syifaa 👀</h1>
 <p align="center">
-  "Somehow I ended up enjoying the tech and data side of things.😄"
+  Somehow I ended up enjoying the tech and data side of things.😄
 </p>
 <p align="center">
   <img src="img/github_header.png" alt="Hello World">
