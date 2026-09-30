@@ -1,20 +1,27 @@
-# 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Syifaa)](https://git.io/typing-svg)
- <br>Back in the university day, I'm pursuing Bioinformatics as my major<br>Currently learning CTF and bug bounty
+<h1 align="center">Hi, I'm Syifaa 👀</h1>
+<p align="center">
+  "Somehow I ended up enjoying the tech and data side of things.😄"
+</p>
+<p align="center">
+  <img src="URL_TO_YOUR_IMAGE" alt="Hello World">
+</p>
 
-### Certifications
-* Credly : https://www.credly.com/users/nusrah-nasyifaa/badges/credly
+<br></br>
+### 📚 Currently Learning
+1. Google Business Intelligence Professional Certificate **(In progress)**
+2. Google IT Automation with Python Professional Certificate **(Up Next)**
+3. Google Advanced Data Analytics Professional Certificate **(Up Next)**
 
-### Currently Learning
-* AWS re/Start with Forward College
-* Google Cloud Gen AI Academy APAC
-* WQU Data Science Lab
-
-### Current interests
+### ✨ Current interests
 * Data Science and Analysis
 * Data Engineering 
 * CTF and bug bounty
 
+### 🎯 5-Year Goals
+- Keep learning and work towards becoming a subject matter expert in my area
+- Become a well-rounded Data Professional
+- Gain professional-level experience with AWS and cloud technologies
+#
 ### Featured Projects
 
 | Project | Description | Tech | Status |
@@ -24,11 +31,13 @@
 | **💰 Expense Tracker** | Personal finance dashboard with budgeting, analytics, and recurring expense tracking. | React • Express • MongoDB | ✅ Completed |
 | **🛍️ E-Commerce Platform** | Full-featured online store with secure payments, inventory management, and admin dashboard. | Next.js • Prisma • Stripe | 🚧 In Progress |
 
+### Tech Stack & Tools
+Here are some of the tools and languages I have worked with:
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- **Languages:** Python, R, SQL, Bash, Unix
+- **Tools/Platforms:** AWS, GitHub, VS Code, Jupyter Notebook, GCP
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nusrahnasyifaa&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="180" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nusrahnasyifaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
